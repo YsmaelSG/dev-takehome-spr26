@@ -32,3 +32,4 @@
 # Notes
 
 <!-- Notes go here -->
+I wish I could do all of them but I have hw sadly.

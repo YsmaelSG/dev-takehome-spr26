@@ -32,4 +32,4 @@
 # Notes
 
 <!-- Notes go here -->
-I wish I could do all of them but I have hw sadly.
+I wish I could do all of them but I have hw sadly. Also im assuming you want us to leave the iLoveJS part for the URL.
